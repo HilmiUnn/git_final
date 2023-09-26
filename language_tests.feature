@@ -6,6 +6,11 @@ Scenario: Verify that te planner can change email notification language
     Then I enter username to forgot password field
 
 
+    Then I accept the offer from Hilmi
+
+
+
+
 
     32When I log out as a planner
     21When I click on the "Forgot your password?" link abcd
