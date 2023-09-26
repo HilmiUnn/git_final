@@ -11,6 +11,7 @@ Scenario: Verify that te planner can change email notification language
     Merge request needs to check by different team members too
 
     // new updates
+    new line of code added here as you wish
     1Then I select "Notifications language" option as "German"
     2Then I save the configuration settings of "Notifications" box
     3When I log out as a planner
