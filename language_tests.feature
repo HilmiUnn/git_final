@@ -8,7 +8,7 @@ Scenario: Verify that te planner can change email notification language
 
     Then I accept the offer from Hilmi
 
-    // added new steps to this program asd hilmi added
+    // added new steps to this program asd added again from my branch
 
 
 
