@@ -4,8 +4,13 @@ Scenario: Verify that te planner can change email notification language
     When I log out as a planner
     When I click on the "Forgot your password?" hilmi from Turkey
     Then I enter username to forgot password field
-    updates coming
-    new accepted offers
+    updates coming // new commits added here as well
+    new accepted offers // commands here
+
+    When i come here Hilmi needs to confirm the merge request
+    Merge request needs to check by different team members too
+
+    // new updates
 
 
 
