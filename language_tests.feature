@@ -8,6 +8,8 @@ Scenario: Verify that te planner can change email notification language
 
     Then I accept the offer from Hilmi
 
+    // added new steps to this program
+
 
 
 
