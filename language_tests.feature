@@ -4,3 +4,9 @@ Scenario: Verify that te planner can change email notification language
     When I log out as a planner
     When I click on the "Forgot your password?" link
     Then I enter username to forgot password field
+
+
+
+    2When I log out as a planner
+    1When I click on the "Forgot your password?" link
+    0Then I enter username to forgot password field
